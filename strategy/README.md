@@ -4,6 +4,7 @@
 > 定义一系列的算法，把他们一个个封装起来，并且使它们可互相替换。本模式使得算法可独立于使用它的客户变化而变化。
 
 #### UML类图
+![image](https://github.com/kuanshang/DesginMode/blob/master/strategy/image/Strategy.jpg)
 
 #### SampleCode类图
 

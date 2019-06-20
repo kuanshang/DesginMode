@@ -1,5 +1,5 @@
 
-public class desginModeBase {
+public class desginMode {
 	
 	public static void main(String[] args) {
         System.out.println("Desgin Mode -- Strategy");

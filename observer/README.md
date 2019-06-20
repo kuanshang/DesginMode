@@ -7,6 +7,8 @@
 ![image](https://github.com/kuanshang/DesginMode/blob/master/observer/image/Observer.jpg)
 
 #### 优点
-
+> 1. 目标和观察者间的抽象耦合
+> 2. 支持广播通信
 
 #### 缺点
+> 1. 意外的更新
